@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kunal271
 - 👀 I’m interested in cloud and its security.
-- 🌱 I’m currently learning Cloud Computing and Cybersecuirty.
+- 🌱 I’m currently learning Cloud Computing and Cybersecurity.
 - 💞️ I’m looking to collaborate on ...
